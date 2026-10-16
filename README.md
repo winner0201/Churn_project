@@ -15,13 +15,6 @@ Ce projet a pour objectif d'**analyser le comportement des clients** et de **pr�
   - `seaborn` & `matplotlib` (Visualisation des données)
   - `scikit-learn` (Modélisation de Machine Learning)
 
-## 📁 Structure du Projet
-```text
-├── .gitignore                  # Fichiers à ignorer par Git
-├── README.md                   # Présentation du projet (ce fichier)
-├── projet_data_churn (1).ipynb # Notebook principal de modélisation
-└── data/                       # Dossier contenant les fichiers de données (si applicable)
-```
 
 ## 📈 Étapes de l'Analyse (Workflow)
 
@@ -39,9 +32,4 @@ Ce projet a pour objectif d'**analyser le comportement des clients** et de **pr�
 
 ## 💻 Tous les détails et les resultats sont dans le notebook
 
-   # Sur Mac/Linux :
-   source .venv/bin/activate
-   ```
-
-3. **Lancer VS Code et ouvrir le Notebook :**
-   Ouvrez le fichier `projet_data_churn (1).ipynb` et exécutez les cellules.
+  
