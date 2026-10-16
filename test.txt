@@ -1,0 +1,5 @@
+Bonjour le monde
+Python est un langage simple
+J'apprends PYTHON aujourd'hui
+Les listes sont mutables
+Fin du fichier
